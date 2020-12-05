@@ -8,7 +8,7 @@ I'm Monstorix. A Journalism student that loves the web development.
 
 
 
-👨‍💻 Currently working on: Design UI/UX/website architecture (not a professional, still learning).
+👨‍💻 Other hobbies: Design UI/UX/website architecture (not a professional, still learning).
 
 🌏 [**Blog**](https://montorix.ink)
 <!--
