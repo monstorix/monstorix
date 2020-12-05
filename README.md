@@ -1,11 +1,22 @@
-### Hi there 👋
+### Hi 👋
+I'm Monstorix. A Journalism student that loves the web development.
+<br>
 
+💻 Programming Languages: HTML, CSS, JavaScript (Learning), Python (Learning). (not the end)
+
+🔈 Natural Languages: Native speaker of Chinese 🇨🇳 , <br>but also a lover of foreign languages, <br>speaks some English 🇬🇧 🇺🇸 and is learning Russian 🇷🇺, French 🇫🇷, German 🇩🇪 and Spanish 🇪🇸 in my spare time. (not the end)
+
+
+
+👨‍💻 Currently working on: Design UI/UX/website architecture (not a professional, still learning).
+
+🌏 [**Blog**](https://montorix.ink)
 <!--
 **monstorix/monstorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
