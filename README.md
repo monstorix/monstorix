@@ -10,7 +10,7 @@ I'm Monstorix. A Journalism student that loves the web development.
 
 👨‍💻 Other hobbies: Design UI/UX/website architecture (not a professional, still learning).
 
-🌏 [**Blog**](https://montorix.ink) (in Chinese)
+🌏 [**Blog**](https://monstorix.ink) (in Chinese)
 <!--
 **monstorix/monstorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
