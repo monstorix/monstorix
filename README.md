@@ -4,7 +4,7 @@ I'm Monstorix. A Journalism student that loves the web development.
 
 💻 Programming Languages: HTML, CSS, JavaScript (Learning), Python (Learning). (not the end)
 
-🔈 Natural Languages: Native speaker of Chinese 🇨🇳 , <br>but also a lover of foreign languages, <br>speak some English 🇬🇧 🇺🇸 and learning Russian 🇷🇺, French 🇫🇷, German 🇩🇪 and Spanish 🇪🇸 in my spare time. (not the end)
+🔈 Natural Languages: Native speaker of Chinese 🇨🇳 , <br>but also a lover of foreign languages, <br>speak some English 🇬🇧 🇺🇸 and learning Russian 🇷🇺 , French 🇫🇷 , German 🇩🇪 and Spanish 🇪🇸 in my spare time. (not the end)
 
 
 
