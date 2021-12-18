@@ -4,7 +4,7 @@ I'm Monstorix. A Journalism student with multiple hobbies.
 
 💻 Trying to be a part-time developer: Learning HTML, CSS, JavaScript (Learning), Python (Learning). (not the end)
 
-🔈 Trying to be a polyglot: a native speaker of Chinese 🇨🇳 , <br>but also a lover of foreign languages, <br>Currently have a basic knowledge of English 🇬🇧 🇺🇸  and try to learn French 🇫🇷 , Russian 🇷🇺 , German 🇩🇪 , Spanish 🇪🇸  and Italian 🇮🇹 in my spare time. (not the end)
+🔈 Trying to be a polyglot: a native speaker of Chinese 🇨🇳 , but also a lover of foreign languages, <br>Currently have a basic knowledge of English 🇬🇧 🇺🇸  and try to learn French 🇫🇷 , Russian 🇷🇺 , German 🇩🇪 , Spanish 🇪🇸  and Italian 🇮🇹 in my spare time. (not the end)
 
 
 
