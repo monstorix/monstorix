@@ -11,6 +11,8 @@ I'm Monstorix. A Journalism student with multiple hobbies.
 👨‍💻 Other hobbies: Design UI/UX/website architecture (not a professional, still learning).
 
 🌏 [Blog](https://monstorix.ink) (Still under construction. Might become functional in 2022)
+
+📺 [My Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
 <!--
 **monstorix/monstorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
