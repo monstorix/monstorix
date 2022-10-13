@@ -9,9 +9,9 @@ I'm Raymond Nee. A Journalism student with multiple hobbies.
 
 👨‍💻 Other hobbies: occasionally try to do some interface design/website building practice, but have nothing to show for it at the moment.
 
-ℹ️ Earlier I used **Monstorix** as a personal pseudonym, but now that name will only be used as a project name, which refers to the various works I have produced, including programming, design, audiovisual and so on.
+ℹ️ Earlier I used **Monstorix** as a personal pseudonym, but now that name will be mostly used as a project name, which refers to the various works I have produced, including programming, design, audiovisual and so on.
 
-🌏 [Visit Project Blog for More](https://monstorix.ink) 
+🌏 [Blog One](https://monstorix.one) / [Blog Personal](https://pw.monstorix.one)
 
 📺 [Monstorix Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
 <!--
