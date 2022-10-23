@@ -6,6 +6,7 @@ I'm Raymond Nee. A Journalism student with multiple hobbies.
 
 🔈 Trying to become a polyglot: a native speaker of Chinese 🇨🇳 , but also a lover of foreign languages, <br>Currently have a basic knowledge of English 🇬🇧 and try to learn Russian 🇷🇺, French 🇫🇷 , Spanish 🇪🇸 , Portuguese 🇵🇹 🇧🇷 in my spare time. (not the end)
 
+💬 Sometimes contribute the Chinese translation to Apps/Websites/Articles
 
 👨‍💻 Other hobbies: occasionally try to do some interface design/website building practice, but have nothing to show for it at the moment.
 
