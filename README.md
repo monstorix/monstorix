@@ -12,7 +12,7 @@ I'm Raymond Nee. A Journalism student with multiple hobbies.
 
 ℹ️ Earlier I used **Monstorix** as a personal pseudonym, but now that name will be mostly used as a project name, which refers to the various works I have produced, including programming, design, audiovisual and so on.
 
-🌏 [Blog One](https://monstorix.one) / [Blog Personal](https://pw.monstorix.one)
+🌏 [Blog One](https://monstorix.one) / [Blog Tina](https://monstorix.tk)
 
 📺 [Monstorix Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
 <!--
