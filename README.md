@@ -32,7 +32,7 @@ You may find me on some other platforms, though I may not very active on them.
     </tr>
     <tr>
         <td rowspan="7">Language</td>
-        <td>🇨🇳Chinese(Simp)</td>
+        <td>🇨🇳Chinese(Simplified)</td>
         <td>🎯Native</td>
         <td></td>
     </tr>
