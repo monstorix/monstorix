@@ -38,45 +38,40 @@ You may find me on some other platforms, though I may not very active on them.
     </tr>
     <tr>
         <td>🇬🇧 English</td>
-        <td>🏫Learning</td>
+        <td rowspan="4">🏫Learning</td>
         <td>Learned at school<br>Might be in CEFR B1-B2<br>Able to read, carry on simple conversations and write</td>
     </tr>
     <tr>
         <td>🇫🇷 French</td>
-        <td>🏫Learning</td>
         <td rowspan="3">Self-studying,<br>Just started, Using Textbooks and Duolingo</td>
     </tr>
     <tr>
         <td>🇷🇺 Russian</td>
-        <td>🏫Learning</td>
     </tr>
     <tr>
         <td>🇯🇵 Japanese</td>
-        <td>🏫Learning</td>
     </tr>
     <tr>
         <td>🇵🇹 🇧🇷 Portuguese</td>
-        <td>🗓️Planned</td>
+        <td rowspan="2">🗓️Planned</td>
         <td rowspan="2">Using Duolingo to get familiar</td>
     </tr>
     <tr>
         <td>🇪🇸 Spanish</td>
-        <td>🗓️Planned</td>
     </tr>
     <tr>
         <td rowspan="3">Design</td>
-        <td>Website/UI Protontype</td>
+        <td>Website/UI Design & Protontype</td>
         <td>🏫Learning</td>
         <td></td>
     </tr>
     <tr>
         <td>Animation</td>
-        <td>🗓️Planned</td>
+        <td rowspan="2">🗓️Planned</td>
         <td></td>
     </tr>
     <tr>
-        <td>3D Modelling</td>
-        <td>🗓️Planned</td>
+        <td>3D Modelling/Blender</td>
         <td></td>
     </tr>
     <tr>
