@@ -1,6 +1,23 @@
-### Hi 👋
+## Hi 👋
 I'm Raymond Nee. A Journalism student with multiple hobbies.
 <br>
+
+### Skills Table（and Plan）
+TBD
+<!--
+
+|Type|Name|Status|Level|
+|---|---|---|---|
+|Coding|JavaScript|🏫Learning|Working on Basic|
+||Python|🗓️Planned||
+||Rust|🗓️Planned||
+|Language|🇨🇳Chinese(Simp)|🎯Native||
+||🇬🇧 English|🏫Learning|Might be in CEFR B1-B2<br>Able to read, carry on simple conversations and write|
+||🇷🇺 Russian|🏫Learning|Basic, Using Textbooks and Duolingo|
+||🇫🇷 French|🏫Learning|Same as above|
+||🇵🇹 🇧🇷 Portuguese|🏫Learning|Same as above|
+||
+
 
 💻 Trying to be an amateur developer: Working on HTML/CSS/JavaScript trio, and maybe Python in the future.
 
@@ -15,7 +32,7 @@ I'm Raymond Nee. A Journalism student with multiple hobbies.
 🌏 [Blog One](https://monstorix.one) / [Blog Tina](https://monstorix.tk)
 
 📺 [Monstorix Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
-<!--
+
 **monstorix/monstorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
