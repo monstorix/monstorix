@@ -1,24 +1,112 @@
 ## Hi 👋
 I'm Raymond Nee. A Journalism student with multiple hobbies.
-<br>
 
-### Skills Table（and Plan）
-TBD
+Trying to learn many things.
+
+Formerly I used **Monstorix** as a personal pseudonym, but now that name will be mostly used as a project name, which refers to the various works I have produced, including coding, design, audiovisual and so on.
+
+🌏 [Blog (In Construction)](https://monstorix.tk)
+
+📺 [Monstorix Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
+
+You may find me on some other platforms, though I may not very active on them.
+
+### Skills (and Plans) Table
+<table>
+    <tr>
+        <td>Type</td>
+        <td>Name</td>
+        <td>Status</td>
+        <td>Level</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Coding</td>
+        <td>JavaScript</td>
+        <td>🏫Learning</td>
+        <td>Working on Basic</td>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td>🗓️Planned</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="7">Language</td>
+        <td>🇨🇳Chinese(Simp)</td>
+        <td>🎯Native</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>🇬🇧 English</td>
+        <td>🏫Learning</td>
+        <td>Learned at school<br>Might be in CEFR B1-B2<br>Able to read, carry on simple conversations and write</td>
+    </tr>
+    <tr>
+        <td>🇫🇷 French</td>
+        <td>🏫Learning</td>
+        <td rowspan="3">Self-studying,<br>Just started, Using Textbooks and Duolingo</td>
+    </tr>
+    <tr>
+        <td>🇷🇺 Russian</td>
+        <td>🏫Learning</td>
+    </tr>
+    <tr>
+        <td>🇯🇵 Japanese</td>
+        <td>🏫Learning</td>
+    </tr>
+    <tr>
+        <td>🇵🇹 🇧🇷 Portuguese</td>
+        <td>🗓️Planned</td>
+        <td rowspan="2">Using Duolingo to get familiar</td>
+    </tr>
+    <tr>
+        <td>🇪🇸 Spanish</td>
+        <td>🗓️Planned</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Design</td>
+        <td>Website/UI Protontype</td>
+        <td>🏫Learning</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Animation</td>
+        <td>🗓️Planned</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3D Modelling</td>
+        <td>🗓️Planned</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Other</td>
+        <td>Translate the Apps/Sites/Articles</td>
+        <td>⏩Doing some contribution</td>
+        <td></td>
+    </tr>
+</table>
 <!--
-
 |Type|Name|Status|Level|
 |---|---|---|---|
 |Coding|JavaScript|🏫Learning|Working on Basic|
 ||Python|🗓️Planned||
-||Rust|🗓️Planned||
 |Language|🇨🇳Chinese(Simp)|🎯Native||
-||🇬🇧 English|🏫Learning|Might be in CEFR B1-B2<br>Able to read, carry on simple conversations and write|
-||🇷🇺 Russian|🏫Learning|Basic, Using Textbooks and Duolingo|
-||🇫🇷 French|🏫Learning|Same as above|
-||🇵🇹 🇧🇷 Portuguese|🏫Learning|Same as above|
-||
+||🇬🇧 English|🏫Learning|Learned at school<br>Might be in CEFR B1-B2<br>Able to read, carry on simple conversations and write|
+||🇫🇷 French|🏫Learning|Self-studying, <br> Just started, Using Textbooks and Duolingo|
+||🇷🇺 Russian|🏫Learning|Same as FR|
+||🇯🇵 Japanese|🏫Learning|Same as FR|
+||🇵🇹 🇧🇷 Portuguese|🗓️Planned|Using Duolingo to get familiar|
+||🇪🇸 Spanish|🗓️Planned|Same as PT|
+|Design|Website/UI Protontype|🏫Learning||
+||Animation|🗓️Planned||
+||3D Modelling|🗓️Planned||
+|Other|Translate the Apps/Sites/Articles|⏩Doing some contribution||
 
 
+
+
+<!--
 💻 Trying to be an amateur developer: Working on HTML/CSS/JavaScript trio, and maybe Python in the future.
 
 🔈 Trying to become a polyglot: a native speaker of Chinese 🇨🇳 , but also a lover of foreign languages, <br>Currently have a basic knowledge of English 🇬🇧 and try to learn Russian 🇷🇺, French 🇫🇷 , Spanish 🇪🇸 , Portuguese 🇵🇹 🇧🇷 in my spare time. (not the end)
@@ -29,11 +117,9 @@ TBD
 
 ℹ️ Earlier I used **Monstorix** as a personal pseudonym, but now that name will be mostly used as a project name, which refers to the various works I have produced, including programming, design, audiovisual and so on.
 
-🌏 [Blog One](https://monstorix.one) / [Blog Tina](https://monstorix.tk)
 
-📺 [Monstorix Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
 
-**monstorix/monstorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**monstorix/mostorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
