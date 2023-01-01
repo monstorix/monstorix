@@ -14,10 +14,10 @@ You may find me on some other platforms, though I may not very active on them.
 ### Skills (and Plans) Table
 <table>
     <tr>
-        <td>Type</td>
-        <td>Name</td>
-        <td>Status</td>
-        <td>Level</td>
+        <td><b>Type</b></td>
+        <td><b>Name</b></td>
+        <td><b>Status</b></td>
+        <td><b>Level</b></td>
     </tr>
     <tr>
         <td rowspan="2">Coding</td>
