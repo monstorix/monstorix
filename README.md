@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm Raymond Nee. A Journalism student with multiple hobbies.
+I'm Raymond Nee. A person with multiple hobbies.
 
 Trying to learn many things.
 
