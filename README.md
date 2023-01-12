@@ -20,15 +20,17 @@ You may find me on some other platforms, though I may not very active on them.
         <td><b>Level</b></td>
     </tr>
     <tr>
-        <td rowspan="2">Coding</td>
+        <td rowspan="3">Coding</td>
         <td>JavaScript</td>
         <td>🏫Learning</td>
         <td>Working on Basic</td>
     </tr>
+        <td>C#</td>
+        <td rowspan="2">🗓️Planned</td>
+        <td rowspan="2">Might start in later 2023</td>
+    </tr>
     <tr>
         <td>Python</td>
-        <td>🗓️Planned</td>
-        <td></td>
     </tr>
     <tr>
         <td rowspan="7">Language</td>
