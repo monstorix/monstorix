@@ -4,9 +4,9 @@ An open source software lover and translations contributor.<br>
 A Native Chinese speaker on the way of learning other languages (mainly en, fr, ru and jp).<br>
 Also doing some learning and ameteur research on journalism and software development.
 
-🌏 [Blog (In Construction)](https://monstorix.tk)
+<!--🌏 [Blog (In Construction)](https://monstorix.tk)-->
 
-<img src="https://user-images.githubusercontent.com/9211781/218276102-f6a20b0f-fa04-4090-b9c5-26f4079e2654.svg" width=20 height= 20/> [Monstorix* Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
+<img src="https://user-images.githubusercontent.com/9211781/218276102-f6a20b0f-fa04-4090-b9c5-26f4079e2654.svg" width=20 height= 20/> [Bilibili Channel](https://space.bilibili.com/179485933) (Some videos on radio and television, language learning and everyday life)
 
 <!--
 *Formerly I used this as a personal pseudonym, but now that name will be mostly used as a project name, which refers to the various works I have produced, including coding, design, audiovisual and so on. You may find me on some other platforms, though I may not very active on them.
