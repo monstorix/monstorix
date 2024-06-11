@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Monstorix. An open source software lover who is learning web development. <br>I also like things related to communication, television, journalism and language.</p>
+<p align="left">I'm Monstorix. An open source software lover who is learning web development.</p>
 
 ###
 
