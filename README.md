@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Contribute translations/fixes to some projects since 2020<br>📚 I'm currently learning the freeCodeCamp full-stack courses. <a href="https://www.freecodecamp.org/monstorix" target="_black">See My Progress</a> <br>🎯 Goals: Being a developer/designer. Being able to build the things I want.<br><br>🎲 Fun facts: <br><ul><li>As a native Chinese speaker. I'm also a keen language learner (mainly English at university, want to learn French, Russian and Japanese). </li><li> At university I was also interested in television and journalism.</li></ul></p>
+<p align="left">✨ Contribute translations/fixes to some projects since 2020<br>📚 I'm currently learning some full-stack courses. <br>🎯 Goals: Being a developer/designer. Being able to build the things I want.<br><br>🎲 Fun facts: <br><ul><li>As a native Chinese speaker. I'm also a keen language learner (mainly English at university, want to learn French, Russian and Japanese). </li><li> At university I was also interested in television and journalism.</li></ul></p>
 
 ###
 
