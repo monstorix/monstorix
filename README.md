@@ -21,8 +21,8 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
-  <img width="12" />
+  <!--img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
+  <img width="12" /-->
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
